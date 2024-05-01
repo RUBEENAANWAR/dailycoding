@@ -7,7 +7,7 @@ let array=[1,2,3,4,6,6,77,8,1,2,]
     for(i=0;i<array.length;i++){
         flag=false;
         for(j=0;j<uniqueArr.length;j++){
-            if(array[i]===uniqueArr[i]){
+            if(array[i]===uniqueArr[j]){
                 flag=true;
                 break;
             }
