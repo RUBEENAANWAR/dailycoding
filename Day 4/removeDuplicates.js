@@ -13,6 +13,7 @@ let array=[1,2,3,4,6,6,77,8,1,2,]
             }
         }
         if(!flag){
+            console.log(!flag)
             uniqueArr.push(array[i])
         }
     }
