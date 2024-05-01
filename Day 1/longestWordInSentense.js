@@ -1,6 +1,6 @@
 function longestWord(sentence){
 let longestWord=''
-let words=sentence.split('');
+let words=sentence.split(' ');
 for(let word of words){
 if (word.length>longestWord.length){
     longestWord=word ;
