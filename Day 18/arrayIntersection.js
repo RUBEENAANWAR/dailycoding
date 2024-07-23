@@ -1,6 +1,6 @@
 //print an array with both common elements from array1 and array2
 
-const arr1=[1,2,3,4]
+const arr1=[1,2,3,4,6]
 const arr2=[3,4,5,6,5,6]
 
 function arrayIntersection(arr1,arr2){

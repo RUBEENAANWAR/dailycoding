@@ -12,4 +12,4 @@ function primeCheck(n){
     return true
 }
 
-console.log(primeCheck(17));
+console.log(primeCheck(177));
